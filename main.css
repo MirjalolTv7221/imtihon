@@ -1,0 +1,97 @@
+.aa {
+    text-align: center;
+    border: solid 2px;
+    color: red;
+    border-radius: 30px;
+    background-color: rgb(61, 134, 197);
+
+}
+
+.ff {
+    color: red;
+}
+
+.xx {
+    color: green;
+}
+
+.bb {
+    text-align: center;
+    background-color: yellow;
+    color: aliceblue;
+}
+
+.rr {
+    width: 500px;
+}
+
+.vv {
+    text-align: center;
+    background-color: yellow;
+    color: aliceblue;
+}
+
+.nn {
+    text-align: center;
+    width: 500px;
+}
+
+.ww {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gg {
+    color: green;
+}
+
+.yy {
+    width: 1200px;
+    height: 30px;
+}
+
+.oo {
+    color: green;
+}
+
+.tt {
+    color: aqua;
+    width: 200px;
+    height: 20px;
+}
+
+.mm{
+    background-color: yellow; color: black; text-align: center;
+}
+
+.th{
+    background-color: green;
+    color: aliceblue;
+    
+}
+table{
+    border: 2px solid black;
+    text-align: center;
+}
+.tt{
+    background-color: green;
+}
+.pp{
+    background-color: blue;
+}
+.zz{
+    background-color: red;
+}
+.ee{
+    background-color: black;
+    color: #eee5e5;
+}
+.ss{
+    background-color: red
+}
+
+.ii{
+    background-color: black;
+    color: #f3f1f1;
+}
